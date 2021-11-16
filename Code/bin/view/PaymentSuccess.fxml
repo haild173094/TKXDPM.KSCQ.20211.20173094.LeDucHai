@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="484.0" prefWidth="629.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text fill="#4edfc7" fontSmoothingType="LCD" layoutX="30.0" layoutY="62.0" strokeType="OUTSIDE" strokeWidth="2.0" text="Payment_HaiLD">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Text>
+      <Button layoutX="188.0" layoutY="394.0" mnemonicParsing="false" prefHeight="48.0" prefWidth="219.0" text="Ok" textFill="#f40000">
+         <font>
+            <Font size="14.0" />
+         </font></Button>
+      <Text fill="#00ff2b" fontSmoothingType="LCD" layoutX="162.0" layoutY="214.0" strokeType="OUTSIDE" strokeWidth="3.0" text="Payment Success!">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
